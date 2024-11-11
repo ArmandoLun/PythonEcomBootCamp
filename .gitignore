@@ -37,3 +37,7 @@ ehthumbs.db
 Thumbs.db
 
 #PyCache
+__pycache__
+
+# ignorar directorios de entornos virtuales
+ve_*

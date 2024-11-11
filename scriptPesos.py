@@ -53,5 +53,5 @@ def list_files_and_folders(path):
         print(f"{folder_path} {folder_size / (1024 * 1024):.2f} MB")
 
 # Ruta de ejemplo
-path = r"E:\SteamLibrary\steamapps\common"
+path = r"C:\Users\arman\AppData\Local"
 list_files_and_folders(path)
